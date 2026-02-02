@@ -1,0 +1,42 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Data & Models (too large for GitHub)
+backend/models/saved_models/*.pt
+data/chroma_db/
+mlruns/
+*.csv
+
+# Keep structure but ignore large files
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+!backend/models/saved_models/.gitkeep
+
+# Node
+frontend/node_modules/
+frontend/build/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Env files
+.env
+*.log
