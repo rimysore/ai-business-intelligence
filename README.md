@@ -75,6 +75,9 @@ React Frontend (3000) ──► FastAPI Backend (8000) ──► AI Models
 
 ## 📫 Contact
 
+<img width="1512" height="739" alt="image" src="https://github.com/user-attachments/assets/cbc4da30-3098-47c8-868e-97d484954110" />
+
+
 **GitHub**: [@rimysore](https://github.com/rimysore)
 
 ---
